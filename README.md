@@ -1,8 +1,8 @@
 # <div align="center">👋 Hello, I'm [Your Name]</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your_username]&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://github.com/苟不自强 奚以图存?tab=followers"><img src="https://img.shields.io/github/followers/[your_username]?style=flat-square&color=blue" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=苟不自强 奚以图存&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://github.com/mingriwuxian?tab=followers"><img src="https://img.shields.io/github/followers/[your_username]?style=flat-square&color=blue" alt="GitHub followers" /></a>
   <a href="https://github.com/mingriwuxian?tab=repositories"><img src="https://img.shields.io/github/repo-count/[your_username]?style=flat-square&color=blue" alt="GitHub repositories" /></a>
 </div>
 
