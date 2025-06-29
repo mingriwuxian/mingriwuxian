@@ -1,155 +1,181 @@
-# <div align="center">👋 Hello, I'm 苟不自强 奚以图存</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mingriwuxian&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://github.com/mingriwuxian?tab=followers"><img src="https://img.shields.io/github/followers/mingriwuxian?style=flat-square&color=blue" alt="GitHub followers" /></a>
-  <a href="https://github.com/mingriwuxian?tab=repositories"><img src="https://img.shields.io/github/repo-count/mingriwuxian?style=flat-square&color=blue" alt="GitHub repositories" /></a>
-</div>
-
-<br />
+# <div align="center">👋 Hello, I'm mingriwuxian</div>
 
 <div align="center">
   <a href="https://github.com/mingriwuxian">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mingriwuxian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingriwuxian&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mingriwuxian&show_icons=true&theme=blue-green&count_private=true" alt="mingriwuxian's GitHub stats" />
+  </a>
+  <a href="https://github.com/mingriwuxian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingriwuxian&layout=compact&theme=blue-green" alt="Top Langs" />
   </a>
 </div>
 
-<br />
+## 🔥 My Coding Journey
 
-## <div align="center">🌐 Language Switch</div>
 <div align="center">
-  <button id="lang-zh" onclick="changeLanguage('zh')" style="background-color: #165DFF; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(22, 93, 255, 0.1);">
-    <span style="font-weight: bold;">中文</span>
-  </button>
-  <button id="lang-en" onclick="changeLanguage('en')" style="background-color: #69b1ff; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(22, 93, 255, 0.1);">
-    <span style="font-weight: bold;">English</span>
-  </button>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mingriwuxian&theme=github" alt="Activity Graph" />
 </div>
 
-<br />
+## 💻 Skills
 
-<!-- 中文内容 -->
-<div id="content-zh">
-  <div class="blue-card" style="background: linear-gradient(135deg, #165DFF 0%, #0039CB 100%); border-radius: 16px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 24px rgba(22, 93, 255, 0.2);">
-    <h2 class="section-title" style="color: white; text-align: center; font-size: 28px; margin-bottom: 20px;">🚀 核心技能</h2>
-    <div class="skills-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; padding: 10px;">
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">Linux体验家</p>
+<div align="center">
+  <div class="skill-container">
+    <div class="skill-card" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <div class="skill-icon bg-blue-500 text-white p-4 rounded-lg">
+        <i class="fab fa-linux text-4xl"></i>
       </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">Python</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">HTML</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">CSS</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">JavaScript</p>
-      </div>
+      <h3 class="skill-title text-xl font-bold mt-4">Linux 体验家</h3>
     </div>
-  </div>
-
-  <div class="blue-card" style="background: white; border-radius: 16px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 24px rgba(22, 93, 255, 0.1);">
-    <h2 class="section-title" style="color: #165DFF; text-align: center; font-size: 28px; margin-bottom: 20px;">🎯 我正在做什么</h2>
-    <div style="text-align: center; padding: 20px;">
-      <p style="color: #333; font-size: 20px; font-weight: 500;">各方面都在学习 <span style="color: #165DFF; font-weight: bold;">📚</span></p>
-    </div>
-  </div>
-
-  <div class="blue-card" style="background: linear-gradient(135deg, #165DFF 0%, #0039CB 100%); border-radius: 16px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 24px rgba(22, 93, 255, 0.2);">
-    <h2 class="section-title" style="color: white; text-align: center; font-size: 28px; margin-bottom: 20px;">⚡ 有趣的事实</h2>
-    <div style="text-align: center;">
-      <img src="https://readme-jokes.vercel.app/api?lang=zh" alt="笑话卡片" style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-    </div>
-  </div>
-</div>
-
-<!-- 英文内容 -->
-<div id="content-en" style="display: none;">
-  <div class="blue-card" style="background: linear-gradient(135deg, #165DFF 0%, #0039CB 100%); border-radius: 16px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 24px rgba(22, 93, 255, 0.2);">
-    <h2 class="section-title" style="color: white; text-align: center; font-size: 28px; margin-bottom: 20px;">🚀 Core Skills</h2>
-    <div class="skills-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; padding: 10px;">
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">Linux Expert</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">Python</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">HTML</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">CSS</p>
-      </div>
-      <div class="skill-card" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; text-align: center; transition: all 0.3s ease; transform: translateY(0);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 40px; margin-bottom: 10px;">
-        <p style="color: white; font-weight: 600;">JavaScript</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="blue-card" style="background: white; border-radius: 16px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 24px rgba(22, 93, 255, 0.1);">
-    <h2 class="section-title" style="color: #165DFF; text-align: center; font-size: 28px; margin-bottom: 20px;">🎯 I'm Currently Working On</h2>
-    <div style="text-align: center; padding: 20px;">
-      <p style="color: #333; font-size: 20px; font-weight: 500;">Learning in all aspects <span style="color: #165DFF; font-weight: bold;">📚</span></p>
-    </div>
-  </div>
-
-  <div class="blue-card" style="background: linear-gradient(135deg, #165DFF 0%, #0039CB 100%); border-radius: 16px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 24px rgba(22, 93, 255, 0.2);">
-    <h2 class="section-title" style="color: white; text-align: center; font-size: 28px; margin-bottom: 20px;">⚡ Fun Fact</h2>
-    <div style="text-align: center;">
-      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-    </div>
-  </div>
-</div>
-
-<script>
-  // 语言切换功能
-  function changeLanguage(lang) {
-    // 更新按钮样式
-    document.getElementById('lang-zh').style.backgroundColor = lang === 'zh' ? '#165DFF' : '#69b1ff';
-    document.getElementById('lang-en').style.backgroundColor = lang === 'en' ? '#165DFF' : '#69b1ff';
     
-    // 显示对应语言内容
-    document.getElementById('content-zh').style.display = lang === 'zh' ? 'block' : 'none';
-    document.getElementById('content-en').style.display = lang === 'en' ? 'block' : 'none';
+    <div class="skill-card" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <div class="skill-icon bg-yellow-500 text-white p-4 rounded-lg">
+        <i class="fab fa-python text-4xl"></i>
+      </div>
+      <h3 class="skill-title text-xl font-bold mt-4">Python</h3>
+    </div>
     
-    // 保存语言偏好到localStorage
-    localStorage.setItem('preferredLanguage', lang);
+    <div class="skill-card" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <div class="skill-icon bg-orange-500 text-white p-4 rounded-lg">
+        <i class="fab fa-html5 text-4xl"></i>
+      </div>
+      <h3 class="skill-title text-xl font-bold mt-4">HTML</h3>
+    </div>
+    
+    <div class="skill-card" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <div class="skill-icon bg-blue-400 text-white p-4 rounded-lg">
+        <i class="fab fa-css3-alt text-4xl"></i>
+      </div>
+      <h3 class="skill-title text-xl font-bold mt-4">CSS</h3>
+    </div>
+    
+    <div class="skill-card" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <div class="skill-icon bg-yellow-400 text-white p-4 rounded-lg">
+        <i class="fab fa-js text-4xl"></i>
+      </div>
+      <h3 class="skill-title text-xl font-bold mt-4">JavaScript</h3>
+    </div>
+  </div>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <div class="stats-container">
+    <div class="stat-card bg-gradient-to-br from-blue-600 to-blue-400 text-white p-6 rounded-xl shadow-lg" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <h3 class="stat-title text-xl font-bold">Total Repositories</h3>
+      <p class="stat-value text-4xl font-bold mt-2">42</p>
+    </div>
+    
+    <div class="stat-card bg-gradient-to-br from-purple-600 to-pink-500 text-white p-6 rounded-xl shadow-lg" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <h3 class="stat-title text-xl font-bold">Total Stars</h3>
+      <p class="stat-value text-4xl font-bold mt-2">156</p>
+    </div>
+    
+    <div class="stat-card bg-gradient-to-br from-green-600 to-teal-400 text-white p-6 rounded-xl shadow-lg" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <h3 class="stat-title text-xl font-bold">Contributions</h3>
+      <p class="stat-value text-4xl font-bold mt-2">328</p>
+    </div>
+  </div>
+</div>
+
+## 🌱 I'm Currently Learning
+
+<div align="center">
+  <p class="text-xl font-bold bg-blue-100 text-blue-800 p-4 rounded-lg inline-block">各方面都在学习</p>
+</div>
+
+## 📫 How to Reach Me
+
+<div align="center">
+  <a href="https://twitter.com/mingriwuxian" target="_blank" class="contact-link bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg inline-flex items-center m-2 transition-all duration-300">
+    <i class="fab fa-twitter mr-2"></i> Twitter
+  </a>
+  <a href="https://linkedin.com/in/mingriwuxian" target="_blank" class="contact-link bg-blue-700 hover:bg-blue-800 text-white px-4 py-2 rounded-lg inline-flex items-center m-2 transition-all duration-300">
+    <i class="fab fa-linkedin mr-2"></i> LinkedIn
+  </a>
+  <a href="mailto:mingriwuxian@example.com" target="_blank" class="contact-link bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-lg inline-flex items-center m-2 transition-all duration-300">
+    <i class="fas fa-envelope mr-2"></i> Email
+  </a>
+</div>
+
+## 🌟 Fun Fact
+
+<div align="center">
+  <p class="bg-yellow-100 text-yellow-800 p-4 rounded-lg inline-block">
+    <i class="fas fa-lightbulb mr-2"></i> I once wrote 1000 lines of code in a single day!
+  </p>
+</div>
+
+<style>
+  /* 全局样式 */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8fafc;
   }
   
-  // 检查本地存储的语言偏好
-  document.addEventListener('DOMContentLoaded', function() {
-    const savedLang = localStorage.getItem('preferredLanguage');
-    if (savedLang) {
-      changeLanguage(savedLang);
+  /* 技能卡片样式 */
+  .skill-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+  
+  .skill-card {
+    text-align: center;
+    width: 180px;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    background-color: white;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+  }
+  
+  .skill-icon {
+    display: inline-block;
+    border-radius: 0.5rem;
+  }
+  
+  /* 统计卡片样式 */
+  .stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+  
+  .stat-card {
+    text-align: center;
+    min-width: 200px;
+    transition: transform 0.3s ease;
+  }
+  
+  /* 联系链接样式 */
+  .contact-link {
+    text-decoration: none;
+  }
+  
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .skill-container, .stats-container {
+      flex-direction: column;
+      align-items: center;
     }
     
-    // 为技能卡片添加悬停效果
-    const skillCards = document.querySelectorAll('.skill-card');
-    skillCards.forEach(card => {
-      card.addEventListener('mouseenter', () => {
-        card.style.transform = 'translateY(-5px)';
-        card.style.boxShadow = '0 10px 20px rgba(0, 0, 0, 0.1)';
-      });
-      
-      card.addEventListener('mouseleave', () => {
-        card.style.transform = 'translateY(0)';
-        card.style.boxShadow = 'none';
-      });
-    });
+    .skill-card, .stat-card {
+      width: 80%;
+    }
+  }
+</style>
+
+<script>
+  // 确保字体图标库加载
+  document.addEventListener('DOMContentLoaded', function() {
+    const fontAwesomeScript = document.createElement('script');
+    fontAwesomeScript.src = 'https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css';
+    document.head.appendChild(fontAwesomeScript);
   });
-</script>
-    
+</script>    
