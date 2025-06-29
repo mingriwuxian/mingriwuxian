@@ -171,11 +171,5 @@
   }
 </style>
 
-<script>
-  // 确保字体图标库加载
-  document.addEventListener('DOMContentLoaded', function() {
-    const fontAwesomeScript = document.createElement('script');
-    fontAwesomeScript.src = 'https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css';
-    document.head.appendChild(fontAwesomeScript);
-  });
-</script>    
+<!-- 直接在头部加载Font Awesome -->
+<link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
