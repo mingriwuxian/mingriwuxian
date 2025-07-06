@@ -20,7 +20,6 @@
 
 - GitHub: [mingriwuxian](https://github.com/mingriwuxian)
 - 邮箱: `3253410443@qq.com`
-- 博客: [yourblog.com](https://yourblog.com)
 - 微信: `dr3253410443`
 
 ---
